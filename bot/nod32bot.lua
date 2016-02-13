@@ -317,7 +317,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-NOD32 Commands list :
+dnger Commands list :
  
 1-banhammer list ^
  
@@ -477,12 +477,6 @@ NOD32 Commands list :
 
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
-
-Developer: @behroozYaghi
-توسعه دهنده
-
-channel: @nod32team
-کانال ما
 
 G00D LUCK ^_^
 ]]
